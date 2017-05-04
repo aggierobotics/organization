@@ -22,9 +22,11 @@ Journeyman members must complete an introduction to the Robotics Lab, which shal
 Associate Membership is for students outside of the College of Engineering. Associate members must have completed 5 `badges`. Associate members have all the privileges of Full Membership, but may not sit on the Board.
 
 ### Requirements for Full Membership
+
 Students enrolled in the College of Engineering who have completed 5 `badges` are eligible for Full Membership.
 
 ## Board
+
 Aggie Robotics will be directed by a Board of full members who receive the title `Senior Technician`. The Board is responsible for all operations of the Robotics Club and for the stewardship of the Robotics Lab.
 
 ### Board Members
