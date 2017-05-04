@@ -57,5 +57,10 @@ The `Treasurer` is responsible for tracking and reporting on all funds of the cl
 Elections will be held annually during the Spring semester for the 4 officer positions. Candidates for officer positions must be Full Members, but are not required to be `Senior Technicians`. All students who hold at least Journeyman Membership may vote for officers. Newly elected officers begin their term in May, at a date decided upon by the Board.
 
 ## Meetings
+Aggie Robotics will hold at least one general body meeting per month. The "general body" consist of all members of at least Journeyman rank. General body meetings will be used to communicate announcements and plan for upcoming events.
+
+The Board will hold at least 2 meetings per month. Board members are _required_ to attend all meetings of the Board, unless excused by the `President` or `Vice-President`. Multiple unexcused absences can result in a vote for removal by the Board.
+
+
 
 ## Amendments
