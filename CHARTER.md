@@ -9,6 +9,8 @@
 
 ## Mission
 
+The mission of Aggie Robotics is to provide practical educational opportunities and resources for free innovation in Robotics, Electrical Engineering, and Computer Science.
+
 ## Membership
 
 ## Board
