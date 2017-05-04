@@ -13,6 +13,17 @@ The mission of Aggie Robotics is to provide practical educational opportunities 
 
 ## Membership
 
+Membership in Aggie Robotics contains 3 levels: Journeyman Membership, Associate Membership, and Full Membership. All members will receive a `Member Badge`. Members can advance in level by `badging`. The `badging` process will be defined by the by-laws and published openly.
+
+### Requirements for Journeyman Membership
+Journeyman members must complete an introduction to the Robotics Lab, which shall include design and creation of their `Member Badge`. Journeyman members are eligible to `badge up` in accordance with the by-laws.
+
+### Requirements for Associate Membership
+Associate Membership is for students outside of the College of Engineering. Associate members must have completed 5 `badges`.
+
+### Requirements for Full Membership
+Students enrolled in the College of Engineering who have completed 5 `badges` are eligible for Full Membership.
+
 ## Board
 
 ## Elections
