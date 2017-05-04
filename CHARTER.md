@@ -37,6 +37,9 @@ The Board will be comprised of all `Senior Technicians` including four officers.
 
 `Senior Technicians` may be assigned special duties by a plurality vote of the board. Special positions expire at the end of the semester, unless otherwise specified by the board. Special positions may include, but are not limited to, Event Coordinator, Head Instructor, Project Lead, and other positions as needed by the club.
 
+### Senior Technicians
+`Senior Technicians` are elected by a plurality vote of the Board. A `Senior Technician` will retain their position until they leave the College of Engineering, or are removed by a 2/3 vote of Board Members.
+
 ### Officers
 #### President
 The `President` shall serve as the chief executive officer of Aggie Robotics and chairman of the Board. The `President` will be responsible for all operational decisions of the club, either directly or through designated `Senior Technicians`. The `President` presides over Board meetings and serves as the representative of the club to the Department of Electrical and Computer Engineering.
@@ -51,6 +54,7 @@ The `Secretary` is responsible for maintaining all official records of the club.
 The `Treasurer` is responsible for tracking and reporting on all funds of the club. The `Treasurer` shall maintain the club ledger and accounts, and make a full accounting of all funds used for the Department of Electrical and Computer Engineering.
 
 ## Elections
+Elections will be held annually during the Spring semester for the 4 officer positions. Candidates for officer positions must be Full Members, but are not required to be `Senior Technicians`. All students who hold at least Journeyman Membership may vote for officers. Newly elected officers begin their term in May, at a date decided upon by the Board.
 
 ## Meetings
 
