@@ -62,6 +62,7 @@ Aggie Robotics will hold at least one general body meeting per month. The "gener
 The Board will hold at least 2 meetings per month. Board members are _required_ to attend all meetings of the Board, unless excused by the `President` or `Vice-President`. Multiple unexcused absences can result in a vote for removal by the Board.
 
 ## Events
-The mission of Aggie Robotics necessitates outreach to the College of Engineering and the campus at large. The Board shall make every effort to provide educational opportunities through competitions and "pop-up classes". 
+The mission of Aggie Robotics necessitates outreach to the College of Engineering and the campus at large. The Board shall make every effort to provide educational opportunities through competitions and "pop-up classes".
 
 ## Amendments
+This Charter may be amended by a 2/3 vote of the Board and confirmation by the Chair of the Department of Electrical and Computer Engineering.
