@@ -66,3 +66,6 @@ The mission of Aggie Robotics necessitates outreach to the College of Engineerin
 
 ## Amendments
 This Charter may be amended by a 2/3 vote of the Board and confirmation by the Chair of the Department of Electrical and Computer Engineering.
+
+## Open Source
+Aggie Robotics thrives on the creativity and openness of "Open Source" culture. Aggie Robotics will make every effort to be an "open source" organization, publishing all club documents and sharing all projects on the club GitHub.
