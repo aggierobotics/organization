@@ -12,21 +12,21 @@
 
 ## Mission
 
-The mission of Aggie Robotics is to provide practical educational opportunities and resources for free innovation in Robotics, Electrical Engineering, and Computer Science.
+The mission of Aggie Robotics is to provide practical educational opportunities and resources, for free innovation in: Robotics, Electrical Engineering, and Computer Science.
 
 ## Membership
 
-Membership in Aggie Robotics contains 3 levels: Journeyman Membership, Associate Membership, and Full Membership. All members will receive a `Member Badge`. Members can advance in level by `badging`. The `badging` process will be defined by the by-laws and published openly.
+Membership in Aggie Robotics contains 3 levels: Apprentice Membership, Journeyman Membership, and Crackerjack Membership. All members will receive a `Member Badge`. Members can advance in level by `badging`. The `badging` process will be defined in the by-laws and published openly.
+
+### Requirements for Apprentice Membership
+Apprentice members must complete an introduction to the Robotics Lab, which shall include design and creation of their `Member Badge`. Apprentice members are eligible to `badge up` in accordance with the by-laws.
 
 ### Requirements for Journeyman Membership
-Journeyman members must complete an introduction to the Robotics Lab, which shall include design and creation of their `Member Badge`. Journeyman members are eligible to `badge up` in accordance with the by-laws.
+Journeyman Membership is for students outside of the College of Engineering. Journeyman members must have completed 5 `badges`. Journeyman members have all the privileges of Crackerman Membership, but may not sit on the Board.
 
-### Requirements for Associate Membership
-Associate Membership is for students outside of the College of Engineering. Associate members must have completed 5 `badges`. Associate members have all the privileges of Full Membership, but may not sit on the Board.
+### Requirements for Crackerjack Membership
 
-### Requirements for Full Membership
-
-Students enrolled in the College of Engineering who have completed 5 `badges` are eligible for Full Membership.
+Students enrolled in the College of Engineering who have completed 5 `badges` are eligible for Crackerjack Membership.
 
 ## Board
 
@@ -54,10 +54,10 @@ The `Secretary` is responsible for maintaining all official records of the club.
 The `Treasurer` is responsible for tracking and reporting on all funds of the club. The `Treasurer` shall maintain the club ledger and accounts, and make a full accounting of all funds used for the Department of Electrical and Computer Engineering.
 
 ## Elections
-Elections will be held annually during the Spring semester for the 4 officer positions. Candidates for officer positions must be Full Members, but are not required to be `Senior Technicians`. All students who hold at least Journeyman Membership may vote for officers. Newly elected officers begin their term in May, at a date decided upon by the Board.
+Elections will be held annually during the Spring semester for the 4 officer positions. Candidates for officer positions must be Full Members, but are not required to be `Senior Technicians`. All students who hold at least Apprentice Membership may vote for officers. Newly elected officers begin their term in May, at a date decided upon by the Board.
 
 ## Meetings
-Aggie Robotics will hold at least one general body meeting per month. The "general body" consist of all members of at least Journeyman rank. General body meetings will be used to communicate announcements and plan for upcoming events.
+Aggie Robotics will hold at least one general body meeting per month. The "general body" consist of all members of at least Apprentice rank. General body meetings will be used to communicate announcements and plan for upcoming events.
 
 The Board will hold at least 2 meetings per month. Board members are _required_ to attend all meetings of the Board, unless excused by the `President` or `Vice-President`. Multiple unexcused absences can result in a vote for removal by the Board.
 
