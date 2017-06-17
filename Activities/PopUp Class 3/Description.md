@@ -39,7 +39,7 @@
 > from the ground up so that when the weapon hits the opponent it throws the opponent into the air.
 
 ## Goals
-    *
-    *
-    *
-    *
+   *
+   *
+   *
+   *
